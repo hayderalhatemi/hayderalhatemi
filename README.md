@@ -1,3 +1,9 @@
+# 👋 Hi, I'm Hayder Alhatemi
+
+💻 Software Engineering student interested in full-stack development and backend systems.
+
+---
+
 ## 🛠 Tech Stack
 
 ### Languages & Frameworks
