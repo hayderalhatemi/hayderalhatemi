@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Hayder Alhatemi
 
-💻 Software Engineering student interested in full-stack development and backend systems.
+💻 Full-stack developer specializing in JavaScript and TypeScript, building scalable web applications with React, Node.js, and MongoDB.
+Experienced in authentication systems, REST APIs, and modern frontend development.
 
 ---
 
