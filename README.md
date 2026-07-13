@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hayder Alhatemi
 
-💻 Full-stack developer building scalable web applications with React, Node.js, TypeScript, MongoDB, and Docker. Passionate about clean architecture, REST APIs, authentication systems, and continuous learning.
+💻 Full-stack developer with experience in React, Node.js, TypeScript, PostgreSQL, MongoDB, Docker, and modern development workflows.
 
 ---
 
