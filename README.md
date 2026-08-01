@@ -31,5 +31,6 @@
 
 ## 📫 Contact
 
-LinkedIn: https://linkedin.com/in/hayder-alhatemi-2991832ba
-Email: hayder.alhatemi@gmail.com
+📧 **Email:** hayder.alhatemi@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/your-profile
